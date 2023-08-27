@@ -133,3 +133,5 @@ function realizarAcao() {
 console.log("Bem-vindo ao sistema de controle de estoque!");
 exibirMenu();
 realizarAcao();
+
+//executar no terminal
